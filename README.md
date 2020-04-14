@@ -9,3 +9,4 @@ Nakon igrača karte dobiva dealer i određuje se tko ima više bodova.
 ---
 Radim na tome da as daje 1 ili 11 bodova. 
 Sve ostalo radi i igra je spremna za pokretanje uz cards.txt
+---
