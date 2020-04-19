@@ -30,7 +30,7 @@ while (komanda=="hit"):
             print ("izgubio si!!!")
             exit()
       komanda=input("hit or stand?\n")
-#ponavljam sve isto, ali za dealera. Ovaj dio iznad while-a za dealera se odnosi na kartu iznad prvog while-a.
+#ponavljam sve isto, ali za dealera.
 rukad=""
 while brojacd<13:
       kartad=karte[random.randint(0,50)]
